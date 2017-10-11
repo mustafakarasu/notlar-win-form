@@ -1,0 +1,5 @@
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Model\bin\Debug\Model.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Model\bin\Debug\Model.pdb
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Model\obj\Debug\Model.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Model\obj\Debug\Model.pdb

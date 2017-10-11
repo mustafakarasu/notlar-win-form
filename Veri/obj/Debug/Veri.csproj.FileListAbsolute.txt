@@ -1,0 +1,5 @@
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Veri\bin\Debug\Veri.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Veri\bin\Debug\Veri.pdb
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Veri\obj\Debug\Veri.csprojResolveAssemblyReference.cache
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Veri\obj\Debug\Veri.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Veri\obj\Debug\Veri.pdb

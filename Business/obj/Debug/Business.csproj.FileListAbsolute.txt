@@ -1,0 +1,9 @@
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Business.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Business.pdb
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\obj\Debug\Business.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\obj\Debug\Business.pdb
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Model.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Veri.dll
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Model.pdb
+c:\Users\section-1\documents\visual studio 2015\Projects\Notlar\Business\bin\Debug\Veri.pdb
